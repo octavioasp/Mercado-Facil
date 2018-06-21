@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MercadoFacil</string>
+    <string name="create_table">CREATE TABLE IF NOT EXISTS produtos()</string>
+
+</resources>

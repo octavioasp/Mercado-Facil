@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "963884921251",
+    "firebase_url": "https://mercado-facil-ff58f.firebaseio.com",
+    "project_id": "mercado-facil-ff58f",
+    "storage_bucket": "mercado-facil-ff58f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963884921251:android:3627518e5e204b0d",
+        "android_client_info": {
+          "package_name": "com.app.mercadofacil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963884921251-12peelca61nhtj2o9k5o9t9au3ojnrq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.mercadofacil",
+            "certificate_hash": "b18dbb2c9b0609bf9bebad4d6753e436ba7d7c16"
+          }
+        },
+        {
+          "client_id": "963884921251-tcbg21gv5ffgv8j85qclius2i6vpvlqi.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "963884921251-tcbg21gv5ffgv8j85qclius2i6vpvlqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8-tGI1AFTziHi5oMRl9X7StzEm66014"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963884921251-tcbg21gv5ffgv8j85qclius2i6vpvlqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
